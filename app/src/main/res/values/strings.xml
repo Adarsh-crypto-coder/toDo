@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">CourseToDoApp</string>
+    <string name="add_app">Add</string>
+    <string name="about_app">About</string>
+    <string name="file_name">UserInfo.json</string>
+</resources>
